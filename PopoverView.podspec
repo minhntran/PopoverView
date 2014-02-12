@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
     s.name = "PopoverView"
-    s.version = "0.0.3"
+    s.version = "0.0.4"
     s.summary = "A simple UIView popover control for iPhone/iPad written with CoreGraphics."
     s.homepage = "https://github.com/minhntran/PopoverView"
     s.license = {
@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
     }
     s.author       = { "Raquel Galan" => "iprayforwaves@gmail.com" }
     s.author       = 'runway20'
-    s.source       = { :git => "https://github.com/minhntran/PopoverView.git", :tag => '0.0.3'}
+    s.source       = { :git => "https://github.com/minhntran/PopoverView.git", :tag => '0.0.4'}
     s.platform     = :ios
     s.source_files = 'PopoverView/*.{h,m}'
 
